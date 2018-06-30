@@ -38,7 +38,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #f0d9ed; }
 
 ::-webkit-scrollbar-thumb { background: #61485e !important; border-left-color: #4d394b !important; border-right-color: #4d394b !important; color: #ff0000 !important; }
 
-::-webkit-scrollbar-corner { background: #f97b3e !important; }
+::-webkit-scrollbar-corner { background: #ff0000 !important; }
 
 .supports_custom_scrollbar #messages_container::after { background: none !important; }
 
@@ -50,9 +50,9 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #f0d9ed; }
 
 #client-ui .monkey_scroll_bar { background: #ff0000; }
 
-#client-ui .monkey_scroll_handle_inner { background: #61485e; border: 3px solid #f97b3e; }
+#client-ui .monkey_scroll_handle_inner { background: #61485e; border: 3px solid #ff0000; }
 
-.c-scrollbar--monkey .c-scrollbar__track { background: #f97b3e; }
+.c-scrollbar--monkey .c-scrollbar__track { background: #ff0000; }
 
 .c-scrollbar--monkey .c-scrollbar__bar { background: #61485e; box-shadow: 0 3px 0 #f97b3e, 0 -3px 0 #f97b3e; }
 

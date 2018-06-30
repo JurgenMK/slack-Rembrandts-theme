@@ -366,7 +366,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #primary_file_button.active, #primary_file_button.focus-ring, #primary_file_button:focus, #primary_file_button:hover { background: #f97b3e; border-color: #4d394b; color: #f0d9ed; }
 
-#footer, #footer.footer_msg_input { background: #ff0000; box-shadow: inset 1px 0 0 0 #0000ff; }
+#footer, #footer.footer_msg_input { background: #ff6600; box-shadow: inset 1px 0 0 0 #ff6600; }
 
 #footer.disabled #message-input, #footer.disabled #msg_input { background: padding-box #4d394b !important; border-color: #4d394b !important; }
 

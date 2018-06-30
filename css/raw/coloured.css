@@ -330,7 +330,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #msg_form.focus #msg_input, #msg_form.focus #primary_file_button:not(:hover):not(.active) { border-color: #4d394b; }
 
-#msg_form #msg_input { background: padding-box #00ff00; border-color: #ff00ff; border-left: 0; color: #00ffff; }
+#msg_form #msg_input { background: padding-box #ff6600; border-color: #ffffff; border-left: 0; color: #ff6600; }
 
 #msg_form #msg_input.focus ~ .msg_mentions_button:not(.hover) { color: #f0d9ed; }
 
@@ -612,7 +612,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #client-ui .member_file_filter_menu .searchable_member_list_scroller .team_list_item:hover .member { color: #f0d9ed; }
 
-#client-ui #team_list_container #team_filter .member_filter { background-color: #ff0000; border-left: 1px solid #372c36; }
+#client-ui #team_list_container #team_filter .member_filter { background-color: #ff6600; border-left: 1px solid #372c36; }
 
 #client-ui #file_member_filter { border-color: #61485e; }
 

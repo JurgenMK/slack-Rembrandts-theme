@@ -6,7 +6,7 @@ a:link, a:visited { color: #a3839f; }
 
 a:hover, a:active, a:focus { color: #d4bbd1; }
 
-hr { border-bottom: 1px solid #f97b3e; border-top: 1px solid #f97b3e; }
+hr { border-bottom: 1px solid #ff0000; border-top: 1px solid #f97b3e; }
 
 h1, h2, h3, h4 { color: #f0d9ed; }
 

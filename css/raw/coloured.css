@@ -204,7 +204,7 @@ input[data-placeholder]:empty::before, textarea[data-placeholder]:empty::before 
 
 input[disabled], input[readonly], textarea[disabled], textarea[readonly] { background-color: #61485e !important; }
 
-.form-actions { background-color: #f97b3e; border-top: 1px solid #4d394b; }
+.form-actions { background-color: #00ff00; border-top: 1px solid #4d394b; }
 
 .help-block, .help-inline { color: #a3839f; }
 
@@ -214,7 +214,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .btn.hover, .btn:focus, .btn:hover, .btn.active, .btn:active { background-color: #61485e; color: #f0d9ed; }
 
-.btn.btn_border { border: 2px solid #f97b3e; }
+.btn.btn_border { border: 2px solid #0000ff; }
 
 .btn.disabled, .btn:disabled { background-color: #372c36 !important; }
 
@@ -266,11 +266,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .btn-group.open .btn.dropdown-toggle { background-color: #61485e; }
 
-.btn-group.open .btn-primary.dropdown-toggle { background-color: #f97b3e; }
+.btn-group.open .btn-primary.dropdown-toggle { background-color: #ff0000; }
 
 .btn-group > .btn + .dropdown-toggle { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.125), inset 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 2px rgba(255, 255, 255, 0.05); }
 
-.btn_info, .btn.btn_success { background-color: #f97b3e !important; }
+.btn_info, .btn.btn_success { background-color: #f0fff0 !important; }
 
 .btn_warning, .btn_danger { background-color: #bf360c !important; }
 

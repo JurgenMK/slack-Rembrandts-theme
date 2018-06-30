@@ -1,4 +1,4 @@
-body { background: #ff0000 color: #000000; }
+body { background: #ff0000; color: #000000; }
 
 a { color: #ff0000; }
 
@@ -42,7 +42,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #f0d9ed; }
 
 .supports_custom_scrollbar #messages_container::after { background: none !important; }
 
-.monkey_scroll_bar { background: #f97b3e; }
+.monkey_scroll_bar { background: #424242; }
 
 .monkey_scroll_handle_inner { background: #61485e; border: 1px solid #876484; }
 

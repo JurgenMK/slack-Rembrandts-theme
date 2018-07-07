@@ -330,7 +330,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #msg_form.focus #msg_input, #msg_form.focus #primary_file_button:not(:hover):not(.active) { border-color: #4d394b; }
 
-#msg_form #msg_input { background: padding-box #ff6600; border-color: #ffffff; border-left: 0; color: #ff6600; }
+#msg_form #msg_input { background: padding-box #ff6600; border-color: #ffffff; border-left: 0; color: #ffffff; }
 
 #msg_form #msg_input.focus ~ .msg_mentions_button:not(.hover) { color: #f0d9ed; }
 
@@ -338,7 +338,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #msg_form .msg_mentions_button:hover { color: #f0d9ed; }
 
-#msg_input { background: #f97b3e; border-color: #f97b3e; color: #ffffff; }
+#msg_input { background: #f97b3e; border-color: #ffffff; color: #ffffff; }
 
 #msg_input::-webkit-input-placeholder { color: #f0d9ed !important; -webkit-filter: none; filter: none; opacity: 0.5; }
 
@@ -366,7 +366,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #primary_file_button.active, #primary_file_button.focus-ring, #primary_file_button:focus, #primary_file_button:hover { background: #f97b3e; border-color: #4d394b; color: #f0d9ed; }
 
-#footer, #footer.footer_msg_input { background: #ff6600; box-shadow: inset 1px 0 0 0 #ff6600; }
+#footer, #footer.footer_msg_input { background: #ff6600; box-shadow: inset 1px 0 0 0 #ffffff; }
 
 #footer.disabled #message-input, #footer.disabled #msg_input { background: padding-box #4d394b !important; border-color: #4d394b !important; }
 

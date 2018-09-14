@@ -44,7 +44,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #f0d9ed; }
 
 .monkey_scroll_bar { background: #424242; }
 
-.monkey_scroll_handle_inner { background: #61485e; border: 1px solid #876484; }
+.monkey_scroll_handle_inner { background: #ff6600; border: 1px solid #876484; }
 
 .monkey_scroll_bar_native_scrollbar_shim { background: transparent; }
 
@@ -424,7 +424,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .menu .menu_filter_container input.menu_filter { border: 1px solid #ff6600; }
 
-.menu .menu_filter_container input.menu_filter:focus { border-color: #61485e; }
+.menu .menu_filter_container input.menu_filter:focus { border-color: #ff6600; }
 
 .menu .menu_filter_container .icon_search { color: #a3839f; }
 
